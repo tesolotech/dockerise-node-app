@@ -1,0 +1,19 @@
+{
+  "name": "docker-node",
+  "version": "1.0.0",
+  "description": "docker node",
+  "main": "docker-index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node docker-index.js"
+  },
+  "keywords": [
+    "docker",
+    "node"
+  ],
+  "author": "Vikash Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
